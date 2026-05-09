@@ -1,0 +1,14 @@
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\bin\Debug\net8.0\AlgorithmStudy.exe
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\bin\Debug\net8.0\AlgorithmStudy.deps.json
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\bin\Debug\net8.0\AlgorithmStudy.runtimeconfig.json
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\bin\Debug\net8.0\AlgorithmStudy.dll
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\bin\Debug\net8.0\AlgorithmStudy.pdb
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\obj\Debug\net8.0\AlgorithmStudy.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\obj\Debug\net8.0\AlgorithmStudy.AssemblyInfoInputs.cache
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\obj\Debug\net8.0\AlgorithmStudy.AssemblyInfo.cs
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\obj\Debug\net8.0\AlgorithmStudy.csproj.CoreCompileInputs.cache
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\obj\Debug\net8.0\AlgorithmStudy.dll
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\obj\Debug\net8.0\refint\AlgorithmStudy.dll
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\obj\Debug\net8.0\AlgorithmStudy.pdb
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\obj\Debug\net8.0\AlgorithmStudy.genruntimeconfig.cache
+F:\VisualProject\AlgorithmStudy\AlgorithmStudy\obj\Debug\net8.0\ref\AlgorithmStudy.dll

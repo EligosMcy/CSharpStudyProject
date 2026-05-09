@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VisualProject\\AlgorithmStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{631A4FE2-3533-4A9F-9C77-0AF1DC6C321F}|AlgorithmStudy\\AlgorithmStudy.csproj|f:\\visualproject\\algorithmstudy\\algorithmstudy\\sortalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631A4FE2-3533-4A9F-9C77-0AF1DC6C321F}|AlgorithmStudy\\AlgorithmStudy.csproj|solutionrelative:algorithmstudy\\sortalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A4FE2-3533-4A9F-9C77-0AF1DC6C321F}|AlgorithmStudy\\AlgorithmStudy.csproj|f:\\visualproject\\algorithmstudy\\algorithmstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631A4FE2-3533-4A9F-9C77-0AF1DC6C321F}|AlgorithmStudy\\AlgorithmStudy.csproj|solutionrelative:algorithmstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A4FE2-3533-4A9F-9C77-0AF1DC6C321F}|AlgorithmStudy\\AlgorithmStudy.csproj|f:\\visualproject\\algorithmstudy\\algorithmstudy\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631A4FE2-3533-4A9F-9C77-0AF1DC6C321F}|AlgorithmStudy\\AlgorithmStudy.csproj|solutionrelative:algorithmstudy\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortAlgorithm.cs",
+              "DocumentMoniker": "F:\\VisualProject\\AlgorithmStudy\\AlgorithmStudy\\SortAlgorithm.cs",
+              "RelativeDocumentMoniker": "AlgorithmStudy\\SortAlgorithm.cs",
+              "ToolTip": "F:\\VisualProject\\AlgorithmStudy\\AlgorithmStudy\\SortAlgorithm.cs",
+              "RelativeToolTip": "AlgorithmStudy\\SortAlgorithm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:09:01.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "F:\\VisualProject\\AlgorithmStudy\\AlgorithmStudy\\Solution.cs",
+              "RelativeDocumentMoniker": "AlgorithmStudy\\Solution.cs",
+              "ToolTip": "F:\\VisualProject\\AlgorithmStudy\\AlgorithmStudy\\Solution.cs",
+              "RelativeToolTip": "AlgorithmStudy\\Solution.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T03:18:28.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\VisualProject\\AlgorithmStudy\\AlgorithmStudy\\Program.cs",
+              "RelativeDocumentMoniker": "AlgorithmStudy\\Program.cs",
+              "ToolTip": "F:\\VisualProject\\AlgorithmStudy\\AlgorithmStudy\\Program.cs",
+              "RelativeToolTip": "AlgorithmStudy\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T03:16:53.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
