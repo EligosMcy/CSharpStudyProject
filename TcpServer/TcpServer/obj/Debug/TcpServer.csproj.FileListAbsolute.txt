@@ -1,0 +1,7 @@
+D:\Visual Studio Project\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+D:\Visual Studio Project\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+D:\Visual Studio Project\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+D:\Visual Studio Project\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.AssemblyReference.cache
+D:\Visual Studio Project\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+D:\Visual Studio Project\TcpServer\TcpServer\obj\Debug\TcpServer.pdb

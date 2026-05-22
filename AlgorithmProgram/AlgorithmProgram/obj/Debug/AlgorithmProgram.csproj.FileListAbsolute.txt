@@ -1,0 +1,7 @@
+D:\Visual Studio Project\AlgorithmProgram\AlgorithmProgram\bin\Debug\AlgorithmProgram.exe.config
+D:\Visual Studio Project\AlgorithmProgram\AlgorithmProgram\bin\Debug\AlgorithmProgram.exe
+D:\Visual Studio Project\AlgorithmProgram\AlgorithmProgram\bin\Debug\AlgorithmProgram.pdb
+D:\Visual Studio Project\AlgorithmProgram\AlgorithmProgram\obj\Debug\AlgorithmProgram.csproj.AssemblyReference.cache
+D:\Visual Studio Project\AlgorithmProgram\AlgorithmProgram\obj\Debug\AlgorithmProgram.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\AlgorithmProgram\AlgorithmProgram\obj\Debug\AlgorithmProgram.exe
+D:\Visual Studio Project\AlgorithmProgram\AlgorithmProgram\obj\Debug\AlgorithmProgram.pdb

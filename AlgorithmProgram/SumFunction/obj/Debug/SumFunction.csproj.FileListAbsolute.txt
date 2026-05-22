@@ -1,0 +1,7 @@
+D:\Visual Studio Project\AlgorithmProgram\SumFunction\bin\Debug\SumFunction.exe.config
+D:\Visual Studio Project\AlgorithmProgram\SumFunction\bin\Debug\SumFunction.exe
+D:\Visual Studio Project\AlgorithmProgram\SumFunction\bin\Debug\SumFunction.pdb
+D:\Visual Studio Project\AlgorithmProgram\SumFunction\obj\Debug\SumFunction.csproj.AssemblyReference.cache
+D:\Visual Studio Project\AlgorithmProgram\SumFunction\obj\Debug\SumFunction.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\AlgorithmProgram\SumFunction\obj\Debug\SumFunction.exe
+D:\Visual Studio Project\AlgorithmProgram\SumFunction\obj\Debug\SumFunction.pdb
